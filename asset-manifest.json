@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cars/static/css/main.cb5ba3b8.css",
+    "main.js": "/react-cars/static/js/main.fb4e940b.js",
+    "index.html": "/react-cars/index.html",
+    "main.cb5ba3b8.css.map": "/react-cars/static/css/main.cb5ba3b8.css.map",
+    "main.fb4e940b.js.map": "/react-cars/static/js/main.fb4e940b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5ba3b8.css",
+    "static/js/main.fb4e940b.js"
+  ]
+}
