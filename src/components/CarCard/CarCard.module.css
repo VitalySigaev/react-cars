@@ -1,0 +1,11 @@
+.card{
+    width: 400px;
+}
+
+.card:not(:last-child){
+    margin-bottom: 15px;
+}
+
+.textField{
+    margin-bottom:  10px  !important;
+}
